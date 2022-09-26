@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreya264
 - 👀 I’m interested in science and science based tools
-- 🌱 I’m currently learning Networking, OS, C, Python, Simulation tools and Psychology
+- 🌱 I’m currently learning IoT, Networking, OS, C, Python, Simulation tools and Psychology
 - 💞️ I’m looking to collaborate on Internet Of Things (IoT)
 - 📫 How to reach me shreya2326@gmail.com
 
